@@ -5301,16 +5301,18 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF: -1 tvg-id="mutv.uk" tvg-logo="https://cdn.browsercam.com/headers/com.manutd.mutv-header.png" group-title="SPORTS PREMIUM",", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-
 ==================================NBA===============================================
 
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS PREMIUM",NBA TV 1
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS PREMIUM",NBA TV ZOZO
 https://link.zozotv.xyz:443/Rina923/390023/167
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS PREMIUM",NBA TV 2
-http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/65857 
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS PREMIUM",NBA TV 3
-http://premium-ks.vip:2082/FIdvabvuaj/bnOcc8l6y6@96321559hfjdklxck/65858 
 
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/FBTFJGc/DR.png" group-title="SPORTS PREMIUM",NBA TV VID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6717&type=drm
+https://srtv.my.id/vd/play.mpd?id=6717&type=dash
 
 ==================================Premier Sport================================================
 
