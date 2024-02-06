@@ -109,10 +109,13 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=2818&extension=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:3B:C0&stream=57721&extension=ts
 
 ==================================================================================
-                           SCTV GROUP
+                           EMTEK GROUP
 ==================================================================================
 
 ========================================INDOSIAR==========================================
+
+#EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo",group-title="EMTEK GROUP",INDOSIAR DIGITAL
+http://103.113.116.150:25461/mtm1/12345/3
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="EMTEK GROUP",INDOSIAR ZOZO
 https://link.zozotv.xyz:443/rozila969/abc12345/45
@@ -189,8 +192,6 @@ https://pencarijanda.000webhostapp.com/oxygen/moji.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 
-
-
 =====================================SCTV=============================================
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="EMTEK GROUP",SCTV ZOZO
@@ -222,7 +223,6 @@ https://pencarijanda.000webhostapp.com/oxygen/sctv.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 
-
 ==================================================================================
                                   VIDIO
 ==================================================================================
@@ -239,12 +239,10 @@ https://srtv.my.id/vd/play.mpd?id=783&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
 
-
 #EXTINF:0 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/ran8" group-title="VIDIO",Moji HD VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://srtv.my.id/vd/play.m3u8?id=206&type=hls
-
 
 #EXTINF:0 tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/8z0i" group-title="VIDIO",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -281,7 +279,6 @@ https://srtv.my.id/vd/play.mpd?id=6299&type=dash
 https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 
 ==================================================================================
-==================================================================================
                                    RCTI GROUP
 ==================================================================================
 
@@ -312,7 +309,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://about.vidio.com/wp-content/uploads/2021/12/inews-tv-stream.jpg" group-title="RCTI GROUP", INews HD
 https://dev-multiwebdotnet.pantheonsite.io/18gj.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -322,7 +318,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="RCTI GROUP"catchup="", iNews RCTI+ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/inews.png" group-title="RCTI GROUP", INEWS RCTI+ 2
 #EXTVLCOPT:http-user-agent=android-R+
@@ -352,7 +347,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcqya4c.png" group-title="RCTI GROUP",MNC News 
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-
 ==================================MNC Sports================================================
 
 #EXTINF:-1 group-title="RCTI GROUP" tvg-id="mncsports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/MNCSports_%282020%29.png",MNC Sports 1
@@ -373,9 +367,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-
 ===================================MNCTV===============================================
-
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eI49eXBY54xsgtlYOP5B0QxWsos=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="RCTI GROUP", MNCTV HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683098&extension=ts&play_token=GVZS088tcf
@@ -413,7 +405,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extensi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Micjuxr.png" group-title="RCTI GROUP", RCTI VIS+ 1
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -428,21 +419,17 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 https://pencarijanda.000webhostapp.com/rctiplus/1.m3u8
 
-
 ==================================================================================
                                INDONESIA
 ==================================================================================
 
 ============================================ ANTV =======================================================
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png" group-title="❤️INDONESIA❤️",ANTV A
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -466,10 +453,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="❤️INDONESIA❤️" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/BTV.png",BTV A
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1024px-BTV_%28Indonesia%29_logo.svg.png" group-title="❤️INDONESIA❤️", BTV B
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-
 
 ============================================ Berita Satu World ============================================
 
@@ -481,7 +466,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 ========================================= CNBC ====================================================
 
-
 #EXTINF:-1 group-title="❤️INDONESIA❤️" tvg-id="CNBC INDONESIA" tvg-logo="https://i-meatballs.bunkr.ru/20231005_132719-UTDOa3ur.jpg?download=true",CNBC INDONESIA 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 
@@ -492,10 +476,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MnHwB5K/cnninter-big-copy.png" group-title="❤️INDONESIA❤️",CNN Indonesia A
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b384000_sleng.m3u8
 
-
 #EXTINF:-1 group-title="❤️INDONESIA❤️" tvg-logo="https://i.ibb.co/MnHwB5K/cnninter-big-copy.png",CNN Indonesia B
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
 
 ============================================ DAAITV =======================================================
 
@@ -541,6 +523,12 @@ http://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 ============================================ INDOSIAR =======================================================
 
+#EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo",group-title="❤️INDONESIA❤️",INDOSIAR HD
+http://103.113.116.150:25461/mtm1/12345/3
+
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="❤️INDONESIA❤️",INDOSIAR ZOZO
+https://link.zozotv.xyz:443/rozila969/abc12345/45
+
 #EXTINF:-1 group-title="❤️INDONESIA❤️" tvg-id="indosiar.id" tvg-logo="https://i-meatballs.bunkr.ru/20231005_125203-YJXmz2TE.jpg?download=true",INDOSIAR A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -553,9 +541,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="❤️INDONESIA❤️" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="INDOSIAR", INDOSIAR C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-
-
 
 ============================================ INEWS TV =======================================================
 
@@ -622,17 +607,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 
 ============================================ MNCTV =======================================================
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="❤️INDONESIA❤️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV A
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-
 ============================================ MOJI =======================================================
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="❤️INDONESIA❤️", Moji A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -642,15 +623,9 @@ http://iptvtree.net:8080/F26646/f950f250/298550
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
-
 ============================================ NET TV =======================================================
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="❤️INDONESIA❤️" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719.jpg",NET. A
-#https://cdnjkt2.transvision.co.id:1003/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="❤️INDONESIA❤️" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/14672764_ico.png?ts=1657378719", NET. A
@@ -667,7 +642,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 ============================================ OKEZONE TV =====================================================
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z4VtXMs/okzone.png" group-title="❤️INDONESIA❤️",Okezone A
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -709,7 +683,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 group-title="❤️INDONESIA❤️" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/rtv-1.png", RTV B
 http://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-
 #EXTINF:0 tvg-logo="https://vignette4.wikia.nocookie.net/logo-timeline/images/5/53/RTV_Stacked_version.png/revision/latest?cb=20140826065953" group-title="❤️INDONESIA❤️",RTV C
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
@@ -718,7 +691,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 ============================================ SCTV =======================================================
 
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="❤️INDONESIA❤️" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV",SCTV A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
@@ -726,16 +698,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="❤️INDONESIA❤️" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV",SCTV B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15"  group-title="❤️INDONESIA❤️", SCTV C
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://conn.livetvgo.my.id/cumbu/
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 ============================================ SINDOWNEWS ==================================================
 
@@ -784,8 +746,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="❤️INDONESIA❤️",TRANSTV B
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-
-
 ============================================ TV ONE =======================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -810,14 +770,11 @@ https://srtv.my.id/vd/play.mpd?id=783&type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A2vZdLQ.jpeg" group-title="❤️INDONESIA❤️",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-
 ==================================================================================
                                INDONESIA
 ==================================================================================
 
-
 ========================================= ANTV ====================================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -825,17 +782,13 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.
 #EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i-meatballs.bunkr.ru/20231005_131152-U522ysod.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩",ANTV 1
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://i-meatballs.bunkr.ru/20231005_131152-U522ysod.jpg?download=true",ANTV 2
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-
-
 ========================================= BERITA SATU - BTV ====================================================
-
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="BERITA SATU" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",BTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -848,13 +801,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:0 tvg-id="BeritaSatu.Id" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="🇮🇩 INDONESIA 🇮🇩",BTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-
 ========================================= CNBC ====================================================
-
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="CNBC INDONESIA" tvg-logo="https://i-meatballs.bunkr.ru/20231005_132719-UTDOa3ur.jpg?download=true",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-
 
 ========================================= CNN ====================================================
 
@@ -903,7 +853,11 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 ========================================= INDOSIAR ====================================================
 
+#EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/gvdo",group-title="🇮🇩 INDONESIA 🇮🇩",INDOSIAR HD
+http://103.113.116.150:25461/mtm1/12345/3
 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="🇮🇩 INDONESIA 🇮🇩",INDOSIAR ZOZO
+https://link.zozotv.xyz:443/rozila969/abc12345/45
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="indosiar.id" tvg-logo="https://i-meatballs.bunkr.ru/20231005_125203-YJXmz2TE.jpg?download=true",INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -923,7 +877,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 ========================================= INEWS ====================================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -963,8 +916,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KOMPAS TV =>2" tvg-logo="https://i-meatballs.bunkr.ru/20231005_125515-bgsiGdvt.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩",KOMPAS TV 3
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
-
-
 ========================================= MAGNA  ====================================================
 
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/magna-bszYnT0F.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩",Magna Channel
@@ -974,7 +925,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://thumbor.prod.vidiocdn.com/j_gKn4FRYReHoUYdcRr9Ey7vXF8=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", MENTARI TV
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298546
-
 
 =========================================METRO GLOBE INDONESIA====================================================
 
@@ -1006,10 +956,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://i-meatballs.bunkr.ru/20231005_130217-RWjxmi6Q.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩",MNC TV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-
-
 =========================================MNC Entertainment====================================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1025,10 +972,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-
 ========================================= MOJI TV ====================================================
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="🇮🇩 INDONESIA 🇮🇩", Moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1082,17 +1026,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://i-meatballs.bunkr.ru/20231005_125938-H13icKpF.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩",RCTI 2
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-
-
 ========================================= RTV ====================================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png",RTV 1
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1101,21 +1041,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel%2841869351-4a9c-
 
 ========================================= SCTV ====================================================
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="🇮🇩 INDONESIA 🇮🇩" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4OGnTqd.png" group-title="🇮🇩 INDONESIA 🇮🇩", SCTV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://conn.livetvgo.my.id/cumbu/
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-
 
 ========================================= SINDONEWS ====================================================
 
@@ -1132,7 +1060,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 ========================================= TRANS 7 ====================================================
-
 
 #EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/20231005_130031-WxgBvodL.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩", TRANS 7 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683116&extension=ts&play_token=GVZS088tcf
@@ -1203,7 +1130,6 @@ https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(18564c27-
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/usee-tv-02hL5cNV.jpg?download=true" group-title="🇮🇩 INDONESIA 🇮🇩",USEE PRIME 2
 http://watchlive.my.id/useeprime/manifest.mpd
 
-
 ========================================= VISION PRIME ====================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1218,7 +1144,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 
 =======================================ANTV===========================================
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1232,7 +1157,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/800px-BTV_%28Indonesia%29_logo.svg.png",BTV
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-
 
 ====================================Berita Satu World============================================== 
 
@@ -1303,7 +1227,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbkstdj.png" group-title="INDONESIA",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-
 ==================================KOMPAS TV================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1321,7 +1244,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="mentaritv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",Mentari TV 
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298546
-
  
 ==================================METRO GLOBE NETWORK================================================
 
@@ -1372,13 +1294,11 @@ http://rr3.dens.tv/s/s41/index.m3u8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
-
 ====================================NET TV==============================================
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFdhuwS.png" group-title="INDONESIA",NET. TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
-
 
 ====================================NUSANTARA TV==============================================
 
@@ -1386,7 +1306,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 ====================================RCTI==============================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -1448,9 +1367,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRmes0b.png" group-title="INDONESIA", TVONE  
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-
 ====================================TVRI==============================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -1534,7 +1451,6 @@ http://myteve.online:8080/resplice/wdLIS4d9758INyuX/162138
 #EXTINF:-1 group-title="📺INDONESIA📺" tvg-id="INDOSIAR1" tvg-logo="https://i-meatballs.bunkr.ru/indosiar-UuZW5qZJ.png?download=true",INDOSIAR B
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-
 ====================================iNEWSTV==============================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1576,7 +1492,6 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://210.210.155.37/uq2663/h/h12/index.m3u8
 
-
 ===================================MNC TV===============================================
 
 #EXTINF:-1 group-title="📺INDONESIA📺" tvg-id="MNC TV" tvg-logo="https://i-meatballs.bunkr.ru/mnctv-z9U4JyUG.png?download=true",MNC TV A
@@ -1586,7 +1501,6 @@ http://210.210.155.37/uq2663/h/h12/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd 
 
 ====================================MOJI==============================================
-
 
 #EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/moji-EeCeQVRe.png?download=true" group-title="📺INDONESIA📺", Moji 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1708,7 +1622,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true" group-title="📺INDONESIA📺",TVONE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
-
 
 =====================================TVRI Nasional=============================================
 
@@ -4987,6 +4900,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
                               🏆LIGA BRIMO🏆
 ==================================================================================
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRIINDOSIAR  DIGITAL
+http://103.113.116.150:25461/mtm1/12345/3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI INDOSIAR ZOZO
 https://link.zozotv.xyz:443/rozila969/abc12345/45
