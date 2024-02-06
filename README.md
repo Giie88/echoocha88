@@ -5912,9 +5912,16 @@ http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/47160
 #EXTINF:1, tvg-id="sporttv6.pt" tvg-name="SPORT TV6 FHD" tvg-logo="https://i.postimg.cc/wTctZMYw/GANAS-sporttv-6.png" group-title="SPORT TV",SPORT TV 6
 http://pro.ipcover.tv:8080/kittyx100/12sdHsdIydHf/214747
 
-==============================================================================================
-                                     SSC SPORTS
-==============================================================================================
+
+======================================================================================
+                                    SSC SPORTS
+======================================================================================
+
+
+#EXTINF:-1, tvg-logo="http://s1.czxbexchange.xyz:8080/images/cbcfda0fabe4a0fe755bf741ad87579e.png" group-title="SSC SPORTS",  SSC SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 
 
