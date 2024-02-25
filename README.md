@@ -14,7 +14,7 @@ tv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.githu
 
 ==================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_GIT88", GIAR_GIT88
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_PAS88", GIAR_PAS88
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cine.openwindows037.workers.dev/
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
@@ -32,38 +32,44 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 
 ========================================INDOSIAR==========================================
 
-
-#EXTINF:-1 group-title="EMTEK GROUP" tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/Mf2xpeI.png",INDOSIAR DENZ 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP", INDOSIAR LIVE
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+https://adem-tv.000webhostapp.com/ademm/Indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP" tvg-url="https://bit.ly/JejeVisionEPG",INDOSIAR DENZ 2
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP" tvg-url="https://bit.ly/JejeVisionEPG",INDOSIAR DENZ 1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP",INDOSIAR DENZ 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP",INDOSIAR DENZ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF: -1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/Mf2xpeI.png",group-title="EMTEK GROUP",INDOSIAR DIGITAL
 #http://103.113.116.150:25461/mtm1/12345/3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #EXTINF: -1 tvg-name="INDOSIAR HD" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP", INDOSIAR HD
 #https://dev-multiwebdotnet.pantheonsite.io/INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP", INDOSIAR OXYGEN
 #https://iptv.febianmart.com/play.m3u8?id=indosiar
 https://pencarijanda.000webhostapp.com/oxygen/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP",INDOSIAR VID
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://srtv.my.id/vd/play.m3u8?id=205&type=hls
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/indosiar.png" group-title="EMTEK GROUP",INDOSIAR HOMETV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/94
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP",INDOSIAR ZOZO
-#https://link.zozotv.xyz:443/rozila969/abc12345/45
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="EMTEK GROUP",INDOSIAR VID
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+#https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="EMTEK GROUP",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -77,6 +83,11 @@ https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 =======================================MENTARI TV===========================================
 
+
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/kids2/mentaritv.png" group-title="EMTEK GROUP",MENTARI TV HOMETV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11801
+
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="EMTEK GROUP", MENTARI TV HD
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298546
 
@@ -87,12 +98,15 @@ https://pencarijanda.000webhostapp.com/oxygen/mentaritv.m3u8
 #EXTINF:-1 group-title="EMTEK GROUP" tvg-id="mentaritv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",MENTARI TV VID
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
+#https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 
 #EXTINF:-1 group-title="EMTEK GROUP" tvg-id="mentaritv.id" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png",Mentari TV 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
+http://iptvtree.net:8080/c4596f70/c3848d92/298546
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -107,11 +121,12 @@ http://rr3.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://iptvtree.net:8080/F26646/f950f250/298550
+#http://iptvtree.net:8080/F26646/f950f250/298550
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  HOME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP", MOJI  HOMETV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="EMTEK GROUP", MOJI OXYGEN
 #https://iptv.febianmart.com/play.m3u8?id=moji
@@ -120,10 +135,8 @@ https://pencarijanda.000webhostapp.com/oxygen/moji.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP",MOJI VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://srtv.my.id/vd/play.m3u8?id=206&type=hls
-
-#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.imgur.com/BNvQwXz.jpeg" group-title="EMTEK GROUP",MOJI ZOZO
-https://link.zozotv.xyz:443/rozila969/abc12345/475
+#https://srtv.my.id/vd/play.m3u8?id=206&type=hls
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="EMTEK GROUP",Moji HD VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -147,12 +160,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/01
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV DENZ 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-
-#EXTINF: -1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP", SCTV HD
-https://dev-multiwebdotnet.pantheonsite.io/SCTV HD
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal2/sctv.png" group-title="EMTEK GROUP",SCTV HOMETV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/95
 
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP", SCTV OXYGEN
 #https://iptv.febianmart.com/play.m3u8?id=sctv
@@ -161,10 +171,12 @@ https://pencarijanda.000webhostapp.com/oxygen/sctv.m3u8
 #EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://srtv.my.id/vd/play.m3u8?id=204&type=hls
+#https://srtv.my.id/vd/play.m3u8?id=204&type=hls
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV ZOZO
-https://link.zozotv.xyz:443/rozila969/abc12345/46
+#https://link.zozotv.xyz:443/rozila969/abc12345/46
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
 
 #EXTINF:0 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="EMTEK GROUP",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3904,17 +3916,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
                               🏆LIGA BRIMO🏆
 ==================================================================================
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI INDOSIAR DIGITAL
-http://103.113.116.150:25461/mtm1/12345/3
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI INDOSIAR ZOZO
-https://link.zozotv.xyz:443/rozila969/abc12345/45
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+https://adem-tv.000webhostapp.com/ademm/Indosiar.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆", LIGA BRI INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://dev-multiwebdotnet.pantheonsite.io/INDOSIAR HD
+#https://dev-multiwebdotnet.pantheonsite.io/INDOSIAR HD
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU" group-title="🏆LIGA INDONESIA🏆",LIGA BRI SPORTSTAR 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3928,19 +3938,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="🏆LIGA INDONESIA🏆" tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg",LIGA PEGADAIAN 1 
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#http://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="🏆LIGA INDONESIA🏆" tvg-logo="https://thumb.viva.id/vivacianjur/665x374/2023/07/19/64b8040236d3e-liga-2_cianjur.jpg",LIGA PEGADAIAN 2 
-http://nyanv-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
 ==================================================================================
                               🏆SPORTS LOKAL🏆
 ==================================================================================
@@ -3949,7 +3946,7 @@ http://nyanv-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="🏆SPORTS LOKAL🏆", PRO LIGA
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
+http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
 
 ====================================Soccer Channel==============================================
 
