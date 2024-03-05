@@ -5708,6 +5708,60 @@ https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaed
 https://xn--n8jq3b2a3axyaf5x2a1h4oyr2697a27a688b7t6gggq4h1aoa0258c.kawaguchimaeda.my.id:2060/OptusSport12/xbtss/drm/avc/dash/plain/manifest.mpd
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="KAWATGUSI",ARENA BOLA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7481d3e3738c46768f138e208fee9076:e1d428c7f1ca82339a6cfa1d0757428e
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://kawatgusi.pencarijanda.workers.dev/index.mpd?kid=7481d3e3738c46768f138e208fee9076&mpd=https://xn--l8js6bwa9aheo0cym2673c.kawaguchimaeda.my.id:2050/1/CH1/masterCH1.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="KAWATGUSI",ARENA BOLA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99685545491d40b493b3a4b263c7245e:7939e335bf8cbbd6882f9f5c9cdebe19
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://kawatgusi.pencarijanda.workers.dev/index.mpd?kid=99685545491d40b493b3a4b263c7245e&mpd=https://xn--l8js6bwa9aheo0cym2673c.kawaguchimaeda.my.id:2050/1/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="KAWATGUSI",ASSP 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3ccf73a7a664f85ae7411367ffb2fa7:9687d91b7fd647a88183d0a4cc925f77
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://kawatgusi.pencarijanda.workers.dev/index.mpd?kid=b3ccf73a7a664f85ae7411367ffb2fa7&mpd=https://xn--l8js6bwa9aheo0cym2673c.kawaguchimaeda.my.id:2050/4/CH1/masterCH1.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="KAWATGUSI",ASSP 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f1da399325247eca6acdd7bafb95fa2:41f234fb88590af3b0d224111a61bf71
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://kawatgusi.pencarijanda.workers.dev/index.mpd?kid=8f1da399325247eca6acdd7bafb95fa2&mpd=https://xn--l8js6bwa9aheo0cym2673c.kawaguchimaeda.my.id:2050/4/CH4/masterCH4.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="KAWATGUSI",ASSP 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d6d2a1ac8d14e19b17455650770cd99:ff65174f8ec5d4c88e8d8a21968563cf
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://kawatgusi.pencarijanda.workers.dev/index.mpd?kid=0d6d2a1ac8d14e19b17455650770cd99&mpd=https://xn--l8js6bwa9aheo0cym2673c.kawaguchimaeda.my.id:2050/4/CH5/masterCH5.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="KAWATGUSI",ASSP 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda7f74b842f4f0eb142395dadd91f07:fb12f661d640e4ebdf38e312302260eb
+#EXTVLCOPT:http-referrer=https://nonton.maeda.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-header=Origin=https://nonton.maeda.top
+https://kawatgusi.pencarijanda.workers.dev/index.mpd?kid=bda7f74b842f4f0eb142395dadd91f07&mpd=https://xn--l8js6bwa9aheo0cym2673c.kawaguchimaeda.my.id:2050/4/CH2/masterCH2.mpd
+
+
+
 ==================================================================================
                               ORANGE SPORTS
 ==================================================================================
