@@ -25,60 +25,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac
 ==================================================================================
 
 
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",beIN Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://207.148.120.199:8088/api/bein1fr.json
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport Premium 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport Premium 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport Premium 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport 2 SRB
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport 3 SRB
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport 4 SRB
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Arena Sport 5 SRB
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",Play Sports 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="[LIVE EVENT]",SSC 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-
-
 ==================================================================================
                                     EMTEK GROUP
 ==================================================================================
@@ -1621,6 +1567,454 @@ http://103.127.96.91:25461/91@v2new/9OKqDp3L9S/23
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11801
 
+
+==================================================================================
+                                INDONESIA DIGITAL 
+==================================================================================
+
+=====================================ASIAN FOOD NETWORK=============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lifestyle/afn.png" group-title="INDONESIA DIGITAL",AFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/99
+
+===============================ALJAZEERA===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/aljazeera.png" group-title="INDONESIA DIGITAL",ALJAZEERA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/35
+
+===================================ANIMAL PLANET===============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/animal_planet.png" group-title="INDONESIA DIGITAL",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/88
+
+=====================================ANIPLUS=============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/aniplus.png" group-title="INDONESIA DIGITAL",ANIPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/26
+
+================================ANTV==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/antv.png" group-title="INDONESIA DIGITAL",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/10
+
+================================ASTRO==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/LY7kkGJ/Cricket.jpg" group-title="INDONESIA DIGITAL",ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/134
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/x33RSwC/Assp-1.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/47
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/K5Kc6GC/Assp-2.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/QvV1bzN/Assp-3.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/49
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/k2GK5BW/Assp-4.jpg" group-title="INDONESIA DIGITAL",ASTRO SUPERSPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/50
+
+==================================BBC========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.creativeboom.com/uploads/articles/8c/8c76bc7cf6bbc9b09a8a605fd79f725180d0d9e4_810.png" group-title="INDONESIA DIGITAL",BBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/34
+
+====================================BIOSKOP INDONESIA======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/bioskop_indonesia.png" group-title="INDONESIA DIGITAL",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/23
+
+===================================BLOOMBERG=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/bloomberg.png" group-title="INDONESIA DIGITAL",BLOOMBERG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/36
+
+====================================CARTOON NETWORK======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/cartoon_network.png" group-title="INDONESIA DIGITAL",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/107
+
+===============================CGTN===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cgtn.png" group-title="INDONESIA DIGITAL",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/37
+
+=======================================CINEMAX===================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/cinemax.png" group-title="INDONESIA DIGITAL",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/20
+
+==================================CNA========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cna.png" group-title="INDONESIA DIGITAL",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/41
+
+====================================CNBC INTERNATIONAL======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cnbc_indonesia.png" group-title="INDONESIA DIGITAL",CNBC INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/32
+
+=================================CNN INTERNATIONAL=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/cnn_international.png" group-title="INDONESIA DIGITAL",CNN INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/29
+
+===================================DISCOVERY=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/discovery.png" group-title="INDONESIA DIGITAL",DISCOVERY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/85
+
+==================================DW CHANEL========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/dw_tv.png" group-title="INDONESIA DIGITAL",DW CHANEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/38
+
+==================================EURO NEWS========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/euro_news.png" group-title="INDONESIA DIGITAL",EURO NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/39
+
+====================================FLIK======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/flik.png" group-title="INDONESIA DIGITAL",FLIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/22
+
+===================================FOX NEWS=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="tvg-logo="https://hometv.pw/logo/news/fox_news.png"" group-title="INDONESIA DIGITAL",FOX NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/42
+
+===============================FOX SPORTS===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1447103524_Fox_Sports_Argentina_2023-copia.png.977f2acd0eaa731580e02c585096a9d9.png" group-title="INDONESIA DIGITAL",FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/123
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/1862574058_Fox_Sports_2_Argentina_2023-copia.png.f44c1ecb12612709887e97dd3e3400a8.png" group-title="INDONESIA DIGITAL",FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/124
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="INDONESIA DIGITAL",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/122
+
+==================================FRANCE 24========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/france_24.png" group-title="INDONESIA DIGITAL",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/40
+
+=================================GTV=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="INDONESIA DIGITAL",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/7
+
+===================================HBO GROUP=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="INDONESIA DIGITAL",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/16
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_family.png" group-title="INDONESIA DIGITAL",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/19
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_hits.png" group-title="INDONESIA DIGITAL",HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/17
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/hbo_sign.png" group-title="INDONESIA DIGITAL",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/18
+
+=================================HGTV=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lifestyle/hgtv.png" group-title="INDONESIA DIGITAL",HGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/97
+
+================================HOREE==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/horee.png" group-title="INDONESIA DIGITAL",HOREE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/112
+
+==================================IDX CHANEL========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/news/idx.png" group-title="INDONESIA DIGITAL",IDX CHANEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/43
+
+===================================IMC=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/movies/imc.png" group-title="INDONESIA DIGITAL",IMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/21
+
+=================================INDOSIAR=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="INDONESIA DIGITAL",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/3
+
+==================================INEWS========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="INDONESIA DIGITAL",INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/8
+
+======================================KOMPAS TV====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/kompastv.png" group-title="INDONESIA DIGITAL",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/13
+
+===================================MENTARI TV=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/kids/mentari.png" group-title="INDONESIA DIGITAL",MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/25
+
+=====================================METRO TV=====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/metrotv.png" group-title="INDONESIA DIGITAL",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/12
+
+================================MNCTV==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png"  group-title="INDONESIA DIGITAL",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/6
+
+===================================MOJI=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="INDONESIA DIGITAL",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/15
+
+================================NAT GEO==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/natgeo.png" group-title="INDONESIA DIGITAL",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/86
+
+================================NAT GEO WILD==========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/knowledge/natgeo_wild.png" group-title="INDONESIA DIGITAL",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/87
+
+==================================NET========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="INDONESIA DIGITAL",NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/11
+
+====================================RCTI======================================
+
+#EXTINF:0 tvg-id="ext"  tvg-logo="https://hometv.pw/logo/lokal/rcti.png" group-title="INDONESIA DIGITAL",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/5
+
+===================================RTV=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/rtv.png" group-title="INDONESIA DIGITAL",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/14
+
+===================================SCTV=======================================
+
+#EXTINF:0 tvg-id="ext"  tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="INDONESIA DIGITAL",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/4
+
+===================================SEA TODAY=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://cdn.pixabay.com/photo/2016/09/20/10/30/sea-1682198_960_720.png" group-title="INDONESIA DIGITAL",SEA TODAY
+http://103.113.116.150:25461/mtm1/12345/44
+
+==================================SINDONEWS TV========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://dev-multiwebdotnet.pantheonsite.io/z2nz" group-title="INDONESIA DIGITAL",SINDONEWS TV
+http://103.113.116.150:25461/mtm1/12345/27
+
+=================================SKY SPORT=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/V9ZtgmT/Main-event.jpg" group-title="INDONESIA DIGITAL",SKY PROTECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/132
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="INDONESIA DIGITAL",SKY SPORT (PREMIER LEAGE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/127
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/CpcgXh2/Cricket.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (CRICKET)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/131
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/c6YFRcQ/Premier-league.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (EFL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/129
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/HxZFzSy/Football.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (FOOTBALL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/128
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/MR7xhyW/Formula-1.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (FORMULA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/130
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/GWQWk50/Golf.jpg" group-title="INDONESIA DIGITAL",SKY SPORTS (GOLF)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/133
+
+==============================SUPERSPORT WORLD============================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/55
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (SERI A)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (LALIGA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/57
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/58
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (TENNIS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/59
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (ACTION)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/60
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (GOLF)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/61
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (CRICKET)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/62
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/63
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/sports/supersport2.jpg" group-title="INDONESIA DIGITAL",SUPERSPORT WORLD (RUGBY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/64
+
+==================================TLC========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="INDONESIA DIGITAL",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/98
+
+=====================================TRANS7=====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="INDONESIA DIGITAL",TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/1
+
+=====================================TRANSTV=====================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="INDONESIA DIGITAL",TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/2
+
+===================================TV ONE=======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://hometv.pw/logo/lokal/tvone.png" group-title="INDONESIA DIGITAL",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/9
+
+===============================TRUE (PREMIER FOOTBALL)===========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/cDxj847/Premier-hd-1.jpg" group-title="INDONESIA DIGITAL",TRUE (PREMIER FOOTBALL) 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/69
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/6mSLLHJ/Premier-hd-2.jpg" group-title="INDONESIA DIGITAL",TRUE (PREMIER FOOTBALL) 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/70
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/FVRyVGD/Premier-hd-3.jpg" group-title="INDONESIA DIGITAL",TRUE (PREMIER FOOTBALL) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/71
+
+=================================TRUE SPORTS=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title="INDONESIA DIGITAL",TRUE SPORTS 1 (THAI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/72
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/PDSNGWL/True-sport-2.jpg" group-title="INDONESIA DIGITAL",TRUE SPORTS 2 (THAI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/73
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/nD846N1/True-sport-3.jpg" group-title="INDONESIA DIGITAL",TRUE SPORTS 3 (THAI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/74
+
+=================================TRUE VISIONS =========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/LNGNc5k/Bein-1-th.jpg" group-title="INDONESIA DIGITAL",TRUE VISIONS (BEIN SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/75
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/RzpRzdz/Bein-3-th.jpg" group-title="INDONESIA DIGITAL",TRUE VISIONS (BEIN SPORT 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/76
+
+====================================TRUE TENNIS======================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/r5pygFZ/True-tennis.jpg" group-title="INDONESIA DIGITAL",TRUE TENNIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/77
+
+=====================================WARKOP DKI=====================================
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA DIGITAL",WARKOP DKI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/45
+
+=================================WARNER BROS TV=========================================
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="INDONESIA DIGITAL",WARNER BROS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 13; in-id; RMX3085 Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/45.10.5.1.1
+http://103.113.116.150:25461/mtm1/12345/24
 
 
 ==========================================================================================
